@@ -1,11 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
-<widget id="com.pixelgang.hand" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.pixelgang.hand" version="1.4" xmlns="http://www.w3.org/ns/widgets" xmlns:android = "http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 	<name>Money Swipe Mania</name>
 	<description>Approach the sharp guillotine to earn millions of dollars! Put your hand under the blade to get US dollars. The goal is to reach millionaire status without losing its members. Enhance your reflexes, and be brave to beat the clever cutting standards!</description>
 	<author href="https://www.pixelgangstudios.com" email="support@pixelgangstudios.com">Pixel Gang Studios</author>
 
 	<icon src="www/icon-256.png" width="256" height="256" density="xxxhdpi" />
 	<icon src="www/icon-128.png" width="128" height="128" density="xhdpi" />
+	<icon src="www/icon-76@2x.png" gap:platform="ios" width="152" height="152" />
+	<icon src="www/icon-76.png" gap:platform="ios" width="76" height="76" />
+	<icon src="www/icon-60@2x.png" gap:platform="ios" width="120" height="120" />
 
 	<preference name="android-targetSdkVersion" value="21" />
 
@@ -30,6 +33,7 @@
 	<plugin name="cordova-plugin-statusbar" />
 	<plugin name="cordova-plugin-whitelist" />
 	<plugin name="cordova-plugin-wkwebview-engine" />
+	<plugin name="cordova-build-architecture" spec="https://github.com/MBuchalik/cordova-build-architecture.git#v1.0.1" source="git" />
 
 
 	<engine name="ios" />
