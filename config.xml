@@ -4,13 +4,15 @@
 	<description>Approach the sharp guillotine to earn millions of dollars! Put your hand under the blade to get US dollars. The goal is to reach millionaire status without losing its members. Enhance your reflexes, and be brave to beat the clever cutting standards!</description>
 	<author href="https://www.pixelgangstudios.com" email="support@pixelgangstudios.com">Pixel Gang Studios</author>
 
-	<icon src="www/icon-256.png" width="256" height="256" density="xxxhdpi" />
-	<icon src="www/loading-logo.png" width="80" height="80" density="xhdpi" />
-	<icon src="www/icon-128.png" width="128" height="128" density="xhdpi" />
-	<icon src="www/icon-114.png" width="114" height="114" density="xhdpi" />
-	<icon src="www/icon-76.png" width="76" height="76" density="xhdpi" />
-	<icon src="www/icon-32.png" width="32" height="32" density="xhdpi" />
-	<icon src="www/icon-16.png" width="16" height="16" density="xhdpi" />
+	<icon src="www/icon-256.png" gap:platform="ios" width="256" height="256" density="xxxhdpi" />
+	<icon src="www/icon-152.png" gap:platform="ios" width="152" height="152" density="xhdpi" />
+	<icon src="www/loading-logo.png" gap:platform="ios" width="80" height="80" density="xhdpi" />
+	<icon src="www/icon-128.png" gap:platform="ios" width="128" height="128" density="xhdpi" />
+	<icon src="www/icon-120.png" gap:platform="ios" width="120" height="120" density="xhdpi" />
+	<icon src="www/icon-114.png" gap:platform="ios" width="114" height="114" density="xhdpi" />
+	<icon src="www/icon-76.png" gap:platform="ios" width="76" height="76" density="xhdpi" />
+	<icon src="www/icon-32.png" gap:platform="ios" width="32" height="32" density="xhdpi" />
+	<icon src="www/icon-16.png" gap:platform="ios" width="16" height="16" density="xhdpi" />
 	<icon src="www/icon-76@2x.png" gap:platform="ios" width="152" height="152" />
 	<icon src="www/icon-76.png" gap:platform="ios" width="76" height="76" />
 	<icon src="www/Icon-86@2x.png" gap:platform="ios" width="172" height="172" />
