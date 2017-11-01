@@ -52,7 +52,6 @@
 	<plugin name="cordova-plugin-ad-admob" />
 	<plugin name="cordova-plugin-crosswalk-webview" />
 	<plugin name="cordova-plugin-file" />
-	<plugin name="cordova-plugin-httpd" />
 	<plugin name="cordova-plugin-inappbrowser" />
 	<plugin name="cordova-plugin-statusbar" />
 	<plugin name="cordova-plugin-whitelist" />
