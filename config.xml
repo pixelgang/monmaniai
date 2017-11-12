@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
-<widget id="com.pixelgang.hand" version="1.9" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.pixelgang.hand" version="2.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 	<name>Money Swipe Mania</name>
 	<description>Approach the sharp guillotine to earn millions of dollars! Put your hand under the blade to get US dollars. The goal is to reach millionaire status without losing its members. Enhance your reflexes, and be brave to beat the clever cutting standards!</description>
 	<author href="https://www.pixelgangstudios.com" email="support@pixelgangstudios.com">Pixel Gang Studios</author>
@@ -25,6 +25,10 @@
 <icon src="res/icons/ios/icon-76@2x.png" width="152" height="152"/>
 <icon src="res/icons/ios/icon-167.png" width="167" height="167"/>
 <icon src="res/icons/ios/icon-83.5@2x.png" width="167" height="167"/>
+<icon src="AppIcon50x50@2x~ipad.png" width="167" height="167"/>
+<icon src="AppIcon57x57.png" width="167" height="167"/>
+<icon src="AppIcon72x72@2x~ipad.png" width="167" height="167"/>
+<icon src="AppIcon83.5x83.5@2x~ipad.png" width="167" height="167"/>
 <!--  Legacy portrait  -->
 <splash src="res/screens/ios/Default~iphone.png" width="320" height="480"/>
 <splash src="res/screens/ios/Default@2x~iphone.png" width="640" height="960"/>
