@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
-<widget id="com.pixelgang.hand" version="2.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.pixelgang.hand" version="2.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 	<name>Money Swipe Mania</name>
 	<description>Approach the sharp guillotine to earn millions of dollars! Put your hand under the blade to get US dollars. The goal is to reach millionaire status without losing its members. Enhance your reflexes, and be brave to beat the clever cutting standards!</description>
 	<author href="https://www.pixelgangstudios.com" email="support@pixelgangstudios.com">Pixel Gang Studios</author>
@@ -43,6 +43,9 @@
 	<icon src="AppIcon57x57.png" gap:platform="ios" width="57" height="57"/>
 	<icon src="AppIcon72x72@2x~ipad.png" gap:platform="ios" width="144" height="144"/>
 	<icon src="AppIcon83.5x83.5@2x~ipad.png" gap:platform="ios" width="167" height="167"/>
+	<icon src="AppIcon50x50@2x.png" gap:platform="ios" width="100" height="100"/>
+	<icon src="AppIcon72x72@2x.png" gap:platform="ios" width="144" height="144"/>
+	<icon src="AppIcon83.5x83.5@2x.png" gap:platform="ios" width="167" height="167"/>
 
 
 	<preference name="android-targetSdkVersion" value="21" />
